@@ -1,0 +1,3 @@
+## Sensitivity Analysis of Socio-Ecological Systems (SES) Model for Studying Indian Oil Sardine (IOS) Fisheries Dynamics in Kerala
+
+We employ a generalized modeling framework in which placeholder functions symbolize the processes governing the dynamics of state variables. This approach allows us to model the interplay of various social and ecological factors that influenced the sardine fish stock in the coastal region of Kerala during the early 2010s. Morris sensitivity analysis and One-at-A-Time (OAT) sensitivity analysis is performed on the model output to understand influence of various model parameters on the system stability.
