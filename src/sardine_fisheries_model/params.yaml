@@ -1,0 +1,79 @@
+baseline:
+  a_SN: 1.35
+  a_JFN: 0.1
+  a_FG: 0.33
+  a_FT: 1.0
+  b_SRIA: 0.5
+  b_SMN: 0.2
+  b_JFG: 0.85
+  b_JFPM: 0.85
+  b_FGOBRS: 0.65
+  b_FCT: 0.55
+  EE_SMN_SN: 0.3
+  EE_SC_FG: 0.5
+  EE_SRIA_JFN: 0.3
+  EE_SC_JFN: 0.4
+  EE_MN_JFN: 0.45
+  EE_SRIA_SN: 0.25
+  EE_SC_SN: 0.3
+  EE_SMN_JFN: 0.35
+  EE_JFG_SN: 0.4
+  EE_JFMS_JFN: 0.5
+  EE_JFPM_JFN: 0.55
+  EE_JFS_JFN: 0.65
+  EE_FGOBRS_SN: 0.35
+  EE_FGIBRS_SN: 0.4
+  EE_GE_SN: 0.3
+  EE_FGOBRS_FG: 0.5
+  EE_FGIBRS_FG: 0.55
+  EE_GE_FG: 0.45
+  EE_SC_FT: 0.6
+  EE_FGOBRS_FT: 0.5
+  EE_FGIBRS_FT: 0.6
+  EE_GE_FT: 0.45
+  EE_FCT_FT: 0.4
+  EE_LFT_FT: 0.55
+  EE_FCT_FG: 0.4
+  EE_FT_FG: 0.35
+  EE_FT_SN: 0.45
+  EE_FCT_SN: 0.55
+
+bounds:
+  a_SN: [1.3, 1.4]
+  a_JFN: [0.01, 0.2]
+  a_FG: [0.292, 0.368]
+  a_FT: [0.9, 1.1]
+  b_SRIA: [0.001, 0.999]
+  b_SMN: [0.1, 0.3]
+  b_JFG: [0.001, 0.999]
+  b_JFPM: [0.8, 0.9]
+  b_FGOBRS: [0.61, 0.68]
+  b_FCT: [0.001, 0.999]
+  EE_SMN_SN: [0.001, 0.999]
+  EE_SC_FG: [0.001, 0.999]
+  EE_SRIA_JFN: [0.001, 0.999]
+  EE_SC_JFN: [0.001, 0.999]
+  EE_MN_JFN: [0.001, 0.999]
+  EE_SRIA_SN: [0.001, 0.999]
+  EE_SC_SN: [0.001, 0.999]
+  EE_SMN_JFN: [0.001, 0.999]
+  EE_JFG_SN: [0.001, 0.999]
+  EE_JFMS_JFN: [0.001, 0.999]
+  EE_JFPM_JFN: [0.001, 0.999]
+  EE_JFS_JFN: [0.001, 0.999]
+  EE_FGOBRS_SN: [0.001, 0.999]
+  EE_FGIBRS_SN: [0.001, 0.999]
+  EE_GE_SN: [0.001, 0.999]
+  EE_FGOBRS_FG: [0.001, 0.999]
+  EE_FGIBRS_FG: [0.001, 0.999]
+  EE_GE_FG: [0.001, 0.999]
+  EE_SC_FT: [0.001, 0.999]
+  EE_FGOBRS_FT: [0.001, 0.999]
+  EE_FGIBRS_FT: [0.001, 0.999]
+  EE_GE_FT: [0.001, 0.999]
+  EE_FCT_FT: [0.001, 0.999]
+  EE_LFT_FT: [0.001, 0.999]
+  EE_FCT_FG: [0.001, 0.999]
+  EE_FT_FG: [0.001, 0.999]
+  EE_FT_SN: [0.001, 0.999]
+  EE_FCT_SN: [0.001, 0.999]
